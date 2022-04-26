@@ -1,0 +1,19 @@
+Git/GitHub
+
+
+Git init = Inicia repositório
+Git add . = Adiciona arquivos no local.
+Git commit -m "Digitar uma mensagem"
+Git branch -m main = Garante que será main
+Git push origin main = adiciona os arquivos em nuvem
+Git reset = retorna antes do add .
+Git add "Informar o nome do arquivo" adiciona apenas o arquivo
+git diff (mostra todas as alteraçoes)
+Git Status = Confere as alterações e se existem pendencias nos processos.
+
+
+Clonar os arquivos.
+
+Copiar o endereço do projeto no GitHub
+Abrir Git Bash  na pasta
+Git clone link
