@@ -1,0 +1,29 @@
+body{
+    color: rgb(3, 10, 10);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar {
+    background-color: gold;
+}
+
+.quemsomos {
+    background-color: aquamarine;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: aqua;
+
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+.servicos {
+    background-color: rgb(24, 197, 240);
+}
