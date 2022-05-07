@@ -20,7 +20,8 @@ header .container{
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    }
+    
+}
 
 header .logo {
     color: var(--vermelho);
@@ -44,8 +45,8 @@ header nav a:hover{
 
 .filmeprincipal {
     font-size: 16px;
-    background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)), url('/img/CapaUmdiaDificil.jpg');
-    height: 500px;
+    background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/CapaUmdiaDificil.jpg');
+    height:600px;
     background-size:cover;
     display:flex;
     flex-direction:column;
@@ -54,7 +55,7 @@ header nav a:hover{
    }
 
 .series {
-    margin-top: 40px;
+    margin-top: 80px;
     margin-left: 10px;
 }
 .filmeprincipal .descricao {
@@ -108,9 +109,10 @@ a:visited{
 }
 
 .filmeprincipal .container {
-    width: 70%;
+    width: 85%;
     margin-left: 20px;
     text-align: justify;
+    
     
 }
 
@@ -137,5 +139,3 @@ a:visited{
 	-moz-transform: scale(1.2);
 	z-index:2;
 }
-
-
