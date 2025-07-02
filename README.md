@@ -1,4 +1,4 @@
-# DIO - Carrefour Web Developer
+# DIO - Cursos DIO
 ## Modulo I - 1º Desafio de Projeto
 Criando seu primero repositório no GitHub para Compartilhar seu progresso. 
 ### dio-desafio-github 
